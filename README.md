@@ -1,2 +1,1 @@
-# dct
-An image compression algorithm (DCT in Rust)
+# Discrete Cosine Transform for JPEG compression
