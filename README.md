@@ -1,9 +1,6 @@
 # Discrete Cosine Transform (DCT in Rust)
 This is a image compression algorithm implemented in Rust using the Discrete Cosine Transform (DCT), inspired by the JPEG compression technique.
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-
-
 ## Features
 
 - Load an image and convert it to grayscale
