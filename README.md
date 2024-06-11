@@ -30,5 +30,5 @@ Rust and Cargo installed. You can download them from [here](https://www.rust-lan
 
 ## License
 
-This project is licensed under the [MIT License](https://opensource.org/license/MIT).
+Licensed under the [MIT License](https://opensource.org/license/MIT).
 
