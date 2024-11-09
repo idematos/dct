@@ -23,9 +23,3 @@ Rust and Cargo installed. You can download them from [here](https://www.rust-lan
    ```
    
 3. The compressed image will be saved in the project directory.
-
-
-## License
-
-Licensed under the [MIT License](https://opensource.org/license/MIT).
-
